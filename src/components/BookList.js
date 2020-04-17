@@ -15,11 +15,12 @@ const Booklist = () => {
             }
             )}
             </ul>
+
+
             
         </div>
      ) : (
-         <div className="empty"> No books to read. Chill</div>
-
+         <div className="empty"> No books to read. You may chill :)</div>
      );
 }
  
