@@ -1,29 +1,30 @@
 ## Reading List App
 
-An application to record reading list, stored data in the local storage so that it doesnt when user refreshes the pages.
-An application used to stay up to date with the latest news from the BBC and Technology sector. Built with React Context API.
+An application to record a reading list. The data is stored in local storage so that it's not lost when user refreshes the pages.
 
 ![Markdown Logo](https://mcusercontent.com/966fc1b875b92a9a36ccf1370/images/3382def0-d5c9-4eb0-bc23-b816fe945c9a.gif)
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.
+```bash
+Clone this repository.
+You will need `node` and `npm` installed globally on your machine.
 
-Installation:
-
+# install dependencies
 `npm install`
 
-To Run Test Suite:
-
-`npm test`
-
-To Start Server:
-
+# serve with hot reload at localhost:8080
 `npm start`
 
-To Visit App:
+# to run test suite:
+`npm test`
 
+#to start server:
+`npm start`
+
+#to visit app:
 `localhost:3000`
+```
 
 ## Reflection
 
