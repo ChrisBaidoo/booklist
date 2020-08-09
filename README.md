@@ -1,6 +1,6 @@
 ## Reading List App
 
-An application to record a reading list. The data is stored in local storage so that it's not lost when user refreshes the pages.
+An app to record reading list. The data is stored in the local storage so that it's not lost when user refreshes the page.
 
 ![Markdown Logo](https://mcusercontent.com/966fc1b875b92a9a36ccf1370/images/3382def0-d5c9-4eb0-bc23-b816fe945c9a.gif)
 
@@ -8,22 +8,19 @@ An application to record a reading list. The data is stored in local storage so 
 
 ```bash
 Clone this repository.
-You will need `node` and `npm` installed globally on your machine.
+You will need node and npm installed globally on your machine.
 
 # install dependencies
-`npm install`
-
-# serve with hot reload at localhost:8080
-`npm start`
-
-# to run test suite:
-`npm test`
+npm install
 
 #to start server:
-`npm start`
+npm start
 
 #to visit app:
-`localhost:3000`
+localhost:3000
+
+#to create a build of the app:
+npm run build
 ```
 
 ## Reflection
