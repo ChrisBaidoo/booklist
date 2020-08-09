@@ -6,9 +6,11 @@ An app to record reading list. The data is stored in the local storage so that i
 
 ## Installation and Setup Instructions
 
+### Prerequisite
+
+You will need `node` and `npm` installed globally on your machine.
+
 ```bash
-Clone this repository.
-You will need node and npm installed globally on your machine.
 
 # install dependencies
 npm install
