@@ -13,17 +13,14 @@ You will need node and npm installed globally on your machine.
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm start
-
-# to run test suite:
-npm test
-
 #to start server:
 npm start
 
 #to visit app:
 localhost:3000
+
+#to create a build of the app:
+npm run build
 ```
 
 ## Reflection
