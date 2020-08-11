@@ -31,10 +31,10 @@ The project goals included using technologies learned up until this point and fa
 I wanted to build an application that uses React’s Context API to manage global application state without resorting to props drilling.
 I started this process by using the `create-react-app` boilerplate. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into react hook and Context API. The technologies used in this app are React and CSS.
 
-One challenge I had was that when user refreshed the page, any data user has entered was lost. To combat this I stored the data into local storage.
-In the next iteration I plan on setting up a backend with a database to store data essentially making this a fullstack app. 
+One challenge I had was that when user refreshed the page, any data user has entered was lost. To combat this I stored the data in the local storage.
+In the next iteration I plan on building a backend with a database to store user data essentially making this a fullstack app. 
 
-## Contributing
+## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 1. Fork the repository
