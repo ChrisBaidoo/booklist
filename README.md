@@ -37,8 +37,8 @@ In the next iteration I plan on setting up a backend with a database to store da
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Fork it (https://github.com/yourname/yourproject/fork)
-Create your feature branch `git checkout -b feature/fooBar`
-Commit your changes `git commit -am 'Add some fooBar'`
-Push to the branch `git push origin feature/fooBar`
-Create a new Pull Request
+1. Fork the repository
+1. Create your feature branch `git checkout -b feature/fooBar`
+1. Commit your changes `git commit -am 'Add some fooBar'`
+1. Push to the branch `git push origin feature/fooBar`
+1. Create a new Pull Request
